@@ -2,7 +2,7 @@
 
 ## Propuestas
 
-En [Ionic Madrid](http://www.meetup.com/Ionic-Madrid/)
+En [Ionic Madrid](http://www.meetup.com/Ionic-Madrid/) - [@IonicMadrid](https://twitter.com/IonicMadrid)
 necesitamos gente que quiera compartir aspectos del desarrollo con [Ionic Framework](http://ionicframework.com/).
 
 Si conoces Ionic y quieres compartir con la comunidad tus experiencias, *¡Bienvenido!*
