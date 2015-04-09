@@ -43,7 +43,7 @@ The level does not matter, either initiation or advanced.
 La fecha y estructura de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y las localizaciones.
 
-### Mayo 2015
+### Mayo 2015 (fecha aun no establecida)
 
 **Presentación del grupo e Introducción a Ionic Framework**
 
