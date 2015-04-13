@@ -43,13 +43,16 @@ The level does not matter, either initiation or advanced.
 La fecha y estructura de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y las localizaciones.
 
-### Mayo 2015 (fecha aun no establecida)
+### Mayo 2015 (2015-05-14 19:30)
 
-**Presentación del grupo e Introducción a Ionic Framework**
+**$ ionic start IonicMadrid blank**
 
 En esta primera charla os presentaremos el grupo, así como los objetivos que perseguimos con su creación.
 
-Contaremos con la inestimable presencia de **Jorge del Casar** para disfrutar de una introducción sobre Ionic Framework.
+Contaremos con la inestimable presencia de **Jorge del Casar** para disfrutar de una introducción sobre Ionic Framework: **Desarrollo de Apps Móviles Híbridas con Superpoderes**
+
+Detalles de la charla: [$ ionic start IonicMadrid blank](http://www.meetup.com/Ionic-Madrid/events/221700958/)
+Ubicación: Kunlabori Coworking [mapa](http://maps.google.com/maps?f=q&hl=en&q=calle+eduardo+vicente+7%2C+Madrid%2C+es)
 
 ## Charlas Anteriores:
 
