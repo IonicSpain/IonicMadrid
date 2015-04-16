@@ -54,6 +54,14 @@ Contaremos con la inestimable presencia de **Jorge del Casar** para disfrutar de
 Detalles de la charla: [$ ionic start IonicMadrid blank](http://www.meetup.com/Ionic-Madrid/events/221700958/)
 Ubicación: Kunlabori Coworking [mapa](http://maps.google.com/maps?f=q&hl=en&q=calle+eduardo+vicente+7%2C+Madrid%2C+es)
 
+### Junio 2015 (2015-06-11 19:30)
+
+**$ ionic platform add [multi-platform]**
+
+Contaremos con la inestimable presencia de **Quique Fdez. Guerra** para aprender cómo adoptar el la interfaz de usuario en cada una de las plataformas. **Apache Cordova como nunca antes lo habías visto**
+
+Detalles de la charla: [$ ionic platform add [multi-platform]](http://www.meetup.com/Ionic-Madrid/events/221887770/)
+
 ## Charlas Anteriores:
 
 ### No hay charlas anteriores
