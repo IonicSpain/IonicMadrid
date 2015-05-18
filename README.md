@@ -49,7 +49,7 @@ según disponibilidad de los ponentes y las localizaciones.
 
 Contaremos con la inestimable presencia de **Quique Fdez. Guerra** para aprender cómo adoptar el la interfaz de usuario en cada una de las plataformas. **Apache Cordova como nunca antes lo habías visto**
 
-Detalles de la charla: [$ ionic platform add [multi-platform]](http://www.meetup.com/Ionic-Madrid/events/221887770/)
+Detalles de la charla: [$ ionic platform add [multi-platform]](http://www.meetup.com/Ionic-Madrid/events/221887770/) Ubicación: SeAceptanIdeas.com Espacio Coworking [mapa](https://www.google.com/maps/place/Calle+de+Gutierre+de+Cetina,+24,+28017+Madrid,+Espa%C3%B1a/@40.432883,-3.643554,17z/data=!4m2!3m1!1s0xd422f404b712cb1:0xd3b409da9fc66987?hl=es)
 
 ## Charlas Anteriores:
 
