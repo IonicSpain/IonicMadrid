@@ -1,5 +1,13 @@
 # Charlas Ionic Madrid
 
+## Código de Conducta
+
+Ionic quiere proporcionar una experiencia de comunidad libre de acoso para todos, independientemente de su género, identidad o expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza o religión (o ausencia de ella). No toleramos el acoso de los participantes de la comunidad en cualquier forma. El lenguaje obsceno y las imágenes sexuales son inapropiados para cualquier aspecto de esta comunidad, que incluye charlas, talleres, fiestas y medios digitales (Twitter, Facebook, Google+, o incluso mensajes de texto). Los participantes que violen estas reglas pueden ser sancionados o expulsados del grupo y todos los eventos futuros, a discreción de los organizadores.
+
+## Code of Conduct
+
+Ionic is dedicated to providing a harassment-free community experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of community participants in any form. Sexual or graphic language and imagery is inappropriate for any aspect of this community, including talks, workshops, parties, and digital media (Twitter, Facebook, Google+, or even text messages). Participants violating these rules may be sanctioned or expelled from the group and all future events at the discretion of the organizers.
+
 ## Propuestas
 
 En [Ionic Madrid](http://www.meetup.com/Ionic-Madrid/) - [@IonicMadrid](https://twitter.com/IonicMadrid)
