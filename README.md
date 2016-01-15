@@ -48,6 +48,8 @@ The level does not matter, either initiation or advanced.
 
 ## Próximas Charlas Previstas
 
+### Enero 2016 (2016-01-27 19:30)
+
 La fecha y estructura de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y las localizaciones.
 
