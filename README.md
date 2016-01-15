@@ -51,6 +51,23 @@ The level does not matter, either initiation or advanced.
 La fecha y estructura de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y las localizaciones.
 
+**$ ionic plugin add cordova-plugin-googlemaps**
+
+En esta ocasión **Javier corsini** [Linkedin](https://www.linkedin.com/in/javiercorsini) nos demostrará como implementar mapas nativos en nuestra app Ionic.
+
+Detalles de la charla: [$ code ~/develop/ionic/myApp](http://www.meetup.com/Ionic-Madrid/events/228059853/) Ubicación: Aun sin ubicación.
+
+
+## Charlas Anteriores:
+
+### Septiembre 2015 (2015-09-24 19:00)
+
+**$ code ~/develop/ionic/myApp**
+
+**Isabel Cabezas** [@isabelcabezasm](https://twitter.com/isabelcabezasm) Nos cuenta las novedades de Visual Studio Codeo y cómo se adapta al desarrollo en proyectos de Ionic.
+
+Detalles de la charla: [$ code ~/develop/ionic/myApp](http://www.meetup.com/Ionic-Madrid/events/225252831/) Ubicación: SeAceptanIdeas.com Espacio Coworking [mapa](https://www.google.com/maps/place/Calle+de+Gutierre+de+Cetina,+24,+28017+Madrid,+Espa%C3%B1a/@40.432883,-3.643554,17z/data=!4m2!3m1!1s0xd422f404b712cb1:0xd3b409da9fc66987?hl=es)
+
 ### Junio 2015 (2015-06-11 19:30)
 
 **$ ionic platform add [multi-platform]**
@@ -58,8 +75,6 @@ según disponibilidad de los ponentes y las localizaciones.
 Contaremos con la inestimable presencia de **Quique Fdez. Guerra** para aprender cómo adoptar el la interfaz de usuario en cada una de las plataformas. **Apache Cordova como nunca antes lo habías visto**
 
 Detalles de la charla: [$ ionic platform add [multi-platform]](http://www.meetup.com/Ionic-Madrid/events/221887770/) Ubicación: SeAceptanIdeas.com Espacio Coworking [mapa](https://www.google.com/maps/place/Calle+de+Gutierre+de+Cetina,+24,+28017+Madrid,+Espa%C3%B1a/@40.432883,-3.643554,17z/data=!4m2!3m1!1s0xd422f404b712cb1:0xd3b409da9fc66987?hl=es)
-
-## Charlas Anteriores:
 
 ### Mayo 2015 (2015-05-14 19:30)
 
