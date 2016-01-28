@@ -48,19 +48,19 @@ The level does not matter, either initiation or advanced.
 
 ## Próximas Charlas Previstas
 
-### Enero 2016 (2016-01-27 19:30)
-
 La fecha y estructura de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y las localizaciones.
+
+
+## Charlas Anteriores:
+
+### Enero 2016 (2016-01-27 19:30)
 
 **$ ionic plugin add cordova-plugin-googlemaps**
 
 En esta ocasión **Javier corsini** [Linkedin](https://www.linkedin.com/in/javiercorsini) nos demostrará como implementar mapas nativos en nuestra app Ionic.
 
-Detalles de la charla: [$ code ~/develop/ionic/myApp](http://www.meetup.com/Ionic-Madrid/events/228059853/) Ubicación: Aun sin ubicación.
-
-
-## Charlas Anteriores:
+Detalles de la charla: [$ ionic plugin add cordova-plugin-googl­emaps](http://www.meetup.com/Ionic-Madrid/events/228059853/) Ubicación: Aun sin ubicación.
 
 ### Septiembre 2015 (2015-09-24 19:00)
 
