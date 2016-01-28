@@ -60,7 +60,7 @@ según disponibilidad de los ponentes y las localizaciones.
 
 En esta ocasión **Javier corsini** [Linkedin](https://www.linkedin.com/in/javiercorsini) nos demostrará como implementar mapas nativos en nuestra app Ionic.
 
-Detalles de la charla: [$ ionic plugin add cordova-plugin-googl­emaps](http://www.meetup.com/Ionic-Madrid/events/228059853/) Ubicación: Aun sin ubicación.
+Detalles de la charla: [$ ionic plugin add cordova-plugin-googl­emaps](http://www.meetup.com/Ionic-Madrid/events/228059853/) Ubicación: SeAceptanIdeas.com Espacio Coworking [mapa](https://www.google.com/maps/place/Calle+de+Gutierre+de+Cetina,+24,+28017+Madrid,+Espa%C3%B1a/@40.432883,-3.643554,17z/data=!4m2!3m1!1s0xd422f404b712cb1:0xd3b409da9fc66987?hl=es)
 
 ### Septiembre 2015 (2015-09-24 19:00)
 
