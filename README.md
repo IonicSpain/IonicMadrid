@@ -51,16 +51,19 @@ The level does not matter, either initiation or advanced.
 La fecha y estructura de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y las localizaciones.
 
-
 ## Charlas Anteriores:
 
 ### Enero 2016 (2016-01-27 19:30)
 
 **$ ionic plugin add cordova-plugin-googlemaps**
 
-En esta ocasión **Javier corsini** [Linkedin](https://www.linkedin.com/in/javiercorsini) nos demostrará como implementar mapas nativos en nuestra app Ionic.
+En esta ocasión **Javier corsini** [@corsini07](https://twitter.com/corsini07) [Linkedin](https://www.linkedin.com/in/javiercorsini) nos demostrará como implementar mapas nativos en nuestra app Ionic.
 
 Detalles de la charla: [$ ionic plugin add cordova-plugin-googl­emaps](http://www.meetup.com/Ionic-Madrid/events/228059853/) Ubicación: SeAceptanIdeas.com Espacio Coworking [mapa](https://www.google.com/maps/place/Calle+de+Gutierre+de+Cetina,+24,+28017+Madrid,+Espa%C3%B1a/@40.432883,-3.643554,17z/data=!4m2!3m1!1s0xd422f404b712cb1:0xd3b409da9fc66987?hl=es)
+
+[Vídeo de la charla](https://youtu.be/f-Q0HKxF8wE)
+
+[Repo con los ejemplos vistos en la charla](https://github.com/javiercorsini/ionicmadrid-googlemaps-cordova)
 
 ### Septiembre 2015 (2015-09-24 19:00)
 
