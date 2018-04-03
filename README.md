@@ -1,4 +1,6 @@
-# Charlas Ionic Madrid
+![Ionic Madrid](logos/ionic-madrid-landscape.svg)
+
+# Propuestas Ionic Madrid
 
 ## Código de Conducta
 
@@ -10,39 +12,31 @@ Ionic is dedicated to providing a harassment-free community experience for every
 
 ## Propuestas
 
-En [Ionic Madrid](http://www.meetup.com/Ionic-Madrid/) - [@IonicMadrid](https://twitter.com/IonicMadrid)
-necesitamos gente que quiera compartir aspectos del desarrollo con [Ionic Framework](http://ionicframework.com/).
+En [Ionic Madrid](http://www.meetup.com/Ionic-Madrid) ([@IonicMadrid](https://twitter.com/IonicMadrid))
+buscamos gente que quiera compartir aspectos del desarrollo con [Ionic Framework](https://ionicframework.com), [Stencil](https://stenciljs.com) y [Capacitor](https://capacitor.ionicframework.com).
 
-Si conoces Ionic y quieres compartir con la comunidad tus experiencias, *¡Bienvenido!*
+Si conoces Ionic y quieres compartir con la comunidad tus experiencias, *¡Bienvenid@!*
 
 Crea un [_issue_](https://github.com/IonicSpain/IonicMadrid/issues/new)
-para proponer una charla. Por favor, incluye:
+para proponer una charla y sigue los pasos.
 
-* Título de la charla.
-* Descripción: unas cuantas frases sobre lo que quieres contar.
-* Bio del ponente: ¿quién eres, y qué te gusta hacer?
-
-Contactaremos contigo para coordinar la charla y te avisaremos cuando la fecha esté cerrada.
+Contactaremos contigo para coordinar el evento y te avisaremos cuando la fecha esté cerrada.
 
 No importa el nivel, sea de iniciación o avanzado.
 
-Cuando haya varias charlas propuestas lanzaremos una encuesta a través del grupo de Meetup para priorizar en base al interés de los miembros del grupo.
+Cuando haya varios eventos propuestas lanzaremos una encuesta a través del grupo de Meetup para priorizar en base al interés de los miembros del grupo.
 
 ## Call for Proposals
 
-At [Ionic Madrid](http://www.meetup.com/Ionic-Madrid/)
-we need people who want to share aspects of development with [Ionic Framework](http://ionicframework.com/).
+At [Ionic Madrid](http://www.meetup.com/Ionic-Madrid) ([@IonicMadrid](https://twitter.com/IonicMadrid))
+we look for people who want to share aspects of development with [Ionic Framework](http://ionicframework.com), [Stencil](https://stenciljs.com) and [Capacitor](https://capacitor.ionicframework.com).
 
 If you know Ionic and want to share your experiences with the community, *¡Welcome!*
 
 Send an [_issue_](https://github.com/IonicSpain/IonicMadrid/issues/new)
-to propose a talk. Please, include:
+to propose a talk and follow the steps.
 
-* Title of talk.
-* Description: a few sentences about what you want to talk about.
-* Bio: Who are you, and what do you do?
-
-We will contact you to coordinate the talk and we will notify you when the date is closed.
+We will contact you to coordinate the event and notify you when the date is closed.
 
 The level does not matter, either initiation or advanced.
 
